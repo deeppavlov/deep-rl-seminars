@@ -13,4 +13,3 @@
 
 ### Doing
 - Deep RL Policy Gradient: https://goo.gl/L3J3xa
-Blank file for Pytorch provided.
