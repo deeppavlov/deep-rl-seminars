@@ -1,5 +1,7 @@
 ## Deep RL
 
+Seminars that accompany course CS294 at Berkeley.
+
 1. Intro to RL [[presentation](seminar_1/intro_rl_14Oct17.pdf)] [[assignment](Assignments/HW1/assignment1.md)]
     * [Assignment - MNIST PyTorch](Assignments/HW1/mnist_pytorch.ipynb)
     * [Example - CartPole Imitation Learning](Assignments/HW1/CartPole_imitation_example.ipynb)
