@@ -12,3 +12,6 @@
 
 ### Doing
 - DQN: https://goo.gl/ttFRZL
+
+### Send HW to
+- vladzhukovtirko@gmail.com
