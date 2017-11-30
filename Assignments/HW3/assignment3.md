@@ -1,5 +1,5 @@
 ## RL seminars fall 2017, home Assignment #3
- - Issued 28 Nov 2017, deadline 13 Dec 2017
+ - Issued 30 Nov 2017, deadline 14 Dec 2017
  - Work on Pytorch.
  - Put questions here: https://goo.gl/qN6jmJ
 
