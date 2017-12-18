@@ -11,3 +11,4 @@ Seminars that accompany course CS294 at Berkeley.
 4. Model-based RL [[presentation](seminar_4/model_based_RL_18Nov17.pdf)]
 5. Deterministic policy gradient [[presentation](seminar_5/ddpg_02Dec17.pdf)] and multi-armed bandits [[presentation](seminar_5/bandits_02Dec17.pdf)]
 6. Inverse RL [[presentation](seminar_6/inverse_RL_09Dec17.pdf)]
+7. Inverse RL [[presentation](seminar_7/Adv_PG_16Dec17.pdf)]
